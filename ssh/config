@@ -1,9 +1,3 @@
-Host tyler.github.com
-	HostName github.com
-	AddKeysToAgent yes
-	PreferredAuthentications publickey
-	UseKeychain yes
-	IdentityFile ~/.ssh/id_ed25519_tyler
 Host github.com
 	HostName github.com
 	AddKeysToAgent yes
